@@ -20,7 +20,7 @@ The application should provide, at least, two different compression algorithms. 
 We recommend the two following compression algorithms:
 
 - [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)
-- [Lempel-Ziv-Welch algorithm]()
+- [Lempel-Ziv-Welch algorithm](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch)
 
 Both are well known algorithms and students may find plenty of information and even implementations online. However, students must provide their own implementations.
 
